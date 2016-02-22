@@ -1,0 +1,60 @@
+
+h1 {color:black;}
+.center{
+	text-align: center;
+}
+
+.barOne table {
+	background-color: #8AD8F2;
+}
+
+.barOne {
+/*  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  border-radius: 5px;
+  background-color: #8AD8F2;
+  margin-bottom: 40px;*/
+}
+
+.barOne th {
+	border-right: 1px solid black;
+}
+
+.barOne table {
+	width: 100%;
+}
+.tableOne {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding:10px;
+	border-style: double;
+	border-width: 2px;
+	border-color: grey;
+	text-align: center;
+	background-color: #B2BEC2;
+}
+.top5 {
+	display: inline-block;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 20px;
+
+}
+
+.images {
+	display: inline-block;
+
+}
+. borderBox {
+	border: 2px double grey;
+}
+
+
+
+
+
+
+
